@@ -1,0 +1,3 @@
+rootProject.name = 'OneKuaiZu'
+
+include ':app'
